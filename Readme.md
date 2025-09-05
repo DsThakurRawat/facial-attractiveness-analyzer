@@ -1,4 +1,5 @@
 # Facial Attractiveness Prediction
+# NOTE : This Project is under Progress
 
 This is the repository for the predicting facial attractiveness using landmark features and gabor filters.
 
